@@ -10,7 +10,7 @@ public class Ticket_Desk {
         // Creat an Array
         String [] ticket = new String[5];
 
-        //input
+        //input                                      
         //store the array data
         ticket [0] = "This is the 1st Ticket";
         ticket [1] = "This is the 2st Ticket";
